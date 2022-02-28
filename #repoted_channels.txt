@@ -1,0 +1,5 @@
+telegram_channel_to_report1
+telegram_channel_to_report2
+telegram_channel_to_report3
+telegram_channel_to_report4
+telegram_channel_to_report5
