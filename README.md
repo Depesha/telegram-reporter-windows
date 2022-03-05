@@ -1,4 +1,4 @@
-# telegram-reporter-windows
+# Telegram channel reporter for Windows
 ## Перший запуск
 Даний репозиторій містить скрипти, які зроблять все за вас. Підготовлять ваш Windows для роботи і відправки репортів. 
 
